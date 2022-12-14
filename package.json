@@ -1,7 +1,6 @@
 {
   "name": "ajs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -30,7 +29,6 @@
     "babel-loader": "^8.3.0",
     "css-loader": "^3.6.0",
     "eslint": "^8.29.0",
-    "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-standard-with-typescript": "^23.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.6.0",
@@ -50,5 +48,6 @@
   },
   "dependencies": {
     "core-js": "^3.26.1"
-  }
+  },
+  "description": ""
 }
